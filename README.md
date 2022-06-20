@@ -1,4 +1,4 @@
-# Hotel-Manager-
+# Hotel-Management-
 Using Entity Framework Code First C#
 Hướng dẫn sử dụng phần mềm
   B1:Mở project-> chọn demo.sln
